@@ -1,5 +1,5 @@
 # Solar System With Python
-This is a Python program I wrote to simulate the solar system with 80 lines of code.
+This is a Python program I wrote to simulate the solar system with 79 lines of code.
 ![solarsystemwithpython](https://user-images.githubusercontent.com/93080871/138685485-e4dcc24a-e547-41b7-9bfa-8684f5b3a557.gif)
 # Required modules
 tkinter, math, time
